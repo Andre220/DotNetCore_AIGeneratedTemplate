@@ -1,6 +1,6 @@
 # 🚀 Template API - Enterprise ASP.NET Core Template
 
-Um template completo e production-ready para APIs REST usando ASP.NET Core 9.0 com Clean Architecture e organização por Features.
+Um template completo para APIs REST usando ASP.NET Core 9.0 com Clean Architecture e organização por Features.
 
 ## 📋 Índice
 
